@@ -2,24 +2,28 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: “Remember who you are, and the rest will come.” - Prisca Dorcas Mojica Rodríguez, For Brown Girls with Sharp Edges and Tender Hearts
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: paulina_photo.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Silver Spring, Maryland</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal website! I'm a computational scientist with a passion for the credibility and reproducibility of computational evidence.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My journey to become a computational scientist has been non-traditional, beginning from my roots in downtown Los Angeles to my current position as a PhD candidate in the [Department of Mechanical and Aerospace Engineering at The George Washington University]{https://www.mae.seas.gwu.edu/}. As a first-generation college student, I obtained my Bachelor's degree in Mathematics from the [University of California, Santa Cruz]{https://www.math.ucsc.edu/}, followed by a Master of Science in Mathematics from [Claremont Graduate University]{https://www.cgu.edu/school/institute-of-mathematical-sciences/}. During my undergraduate years, I had the opportunity to explore mathematical modeling research through undergraduate [STEM programs]{https://stemdiv.ucsc.edu/}, where I discovered my love for computational modeling.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my role as a program manager for the [CalTeach]{https://calteach.science.ucsc.edu/} Program at UCSC and a web developer for a startup company, I gained valuable experience in web and software development, coding, and programming skills. Later, at the [U.S. Food and Drug Administration (FDA)]{https://www.fda.gov/medical-devices/medical-device-regulatory-science-research-programs-conducted-osel/credibility-computational-models-program-research-computational-models-and-simulation-associated}, I integrated all of my experiences to assess the credibility of computational evidence for regulatory applications related to medical devices. My current research focus is developing an end-to-end example of a regulatory grade computational model for medical device applications with an emphasis on risk informed [credibility]{https://www.asme.org/codes-standards/find-codes-standards/v-v-40-assessing-credibility-computational-modeling-verification-validation-application-medical-devices} and [reproducibility]{https://figshare.com/articles/presentation/Reproducibility_PI_Manifesto/104539}.
+
+As a second-year fellow of the [Department of Energy Computational Science Graduate Fellowship (CSGF)]{https://www.krellinst.org/csgf/}, I am exploring the intersection between High-Performance Computing, risk-informed credibility, and reproducibility. Through my fellowship, I completed my first practicum at the [Sandia National Laboratories]{https://www.sandia.gov/} where I gained training in [Verification, Validation, and Uncertainty Quantification]{https://www.asme.org/codes-standards/publications-information/verification-validation-uncertainty} with a focus on using high-performance computing.
+
+In my free time, I enjoy reading and learning about new topics, especially in the areas of science and technology. I'm also passionate about giving back to my community and have volunteered with several organizations, including the [Society for the Advancement of Chicanos and Native Americans]{https://www.sacnas.org/}. I believe that everyone should have access to education and opportunities to pursue their dreams, no matter their background or circumstances.
+
+If you're interested in learning more about my work or have any questions, feel free to reach out to me. I'm always happy to share my experiences and insights with others who are passionate about computational science and its potential to make a positive impact on society. Thank you for taking the time to get to know me!

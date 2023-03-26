@@ -1,12 +1,11 @@
 github_users:
   - torvalds
-  - alshedivat
+  - paulina-rodriguez
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - paulina-rodriguez/numerical-mooc
+  - paulina-rodriguez/AeroPython
+  - paulina-rodriguez/repro-template
+  - plinarodriguez/ABioM
+  - mitchell-fanger/SimSight
+  - plinarodriguez/jerry
