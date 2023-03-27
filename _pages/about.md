@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: “Remember who you are, and the rest will come.” - Prisca Dorcas Mojica Rodríguez, For Brown Girls with Sharp Edges and Tender Hearts
+subtitle: Computation, compassion, and creativity unite in this curious Chicana. Silly and strong, with an artistic heart, I embrace all parts of me.
 
 profile:
   align: right
@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Silver Spring, Maryland</p>
+    <p style="text-align:center;">Los Angeles, California <br> (Born & Raised)</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,3 +28,4 @@ As a second-year fellow of the [Department of Energy Computational Science Gradu
 In my free time, I enjoy reading and learning about new topics, especially in the areas of science and technology. I'm also passionate about giving back to my community and have volunteered with several organizations, including the [Society for the Advancement of Chicanos and Native Americans](https://www.sacnas.org/). I believe that everyone should have access to education and opportunities to pursue their dreams, no matter their background or circumstances.
 
 If you're interested in learning more about my work or have any questions, feel free to reach out to me. I'm always happy to share my experiences and insights with others who are passionate about computational science and its potential to make a positive impact on society. Thank you for taking the time to get to know me!
+
