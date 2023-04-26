@@ -11,7 +11,7 @@ The material for this presentation is a webinar to introduce a framework that in
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="https://rodriguezpaulina.com/Webinar_ABioM_Rodriguez.pdf" width="100%" height="500" allowfullscreen frameborder="0"></iframe>
+        <iframe src="https://rodriguezpaulina.com/Webinar_ABioM_Rodriguez.pdf" width="100%" height="550" allowfullscreen frameborder="0"></iframe>
         
     </div>
 </div>
