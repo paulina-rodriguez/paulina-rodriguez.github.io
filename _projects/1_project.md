@@ -2,7 +2,7 @@
 layout: page
 title: EDDS Airflow Model 
 description: Poster for the GWU SEAS R&D Showcase 2023
-img: assets/img/posters/SEASPoster_Rodriguez_Paulina_2023.pdf
+img: assets/img/posters/SEASPoster_Rodriguez_Paulina_2023.jpg
 importance: 1
 category: research
 ---
@@ -12,12 +12,12 @@ The material for this poster is part of my graduate research.
     layout: page
     title: EDDS Airflow Model
     description:  Poster for the GWU SEAS R&D Showcase 2023
-    img: /assets/img/posters/SEASPoster_Rodriguez_Paulina_2023.pdf
+    img: /assets/img/posters/SEASPoster_Rodriguez_Paulina_2023.jpg
     ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/posters/SEASPoster_Rodriguez_Paulina_2023.pdf" title="Poster for the GWU SEAS R&D Showcase 2023" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/posters/SEASPoster_Rodriguez_Paulina_2023.jpg" title="Poster for the GWU SEAS R&D Showcase 2023" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -2,7 +2,7 @@
 layout: page
 title: ABioM Webinar
 description: An Agile framework for VVUQ
-img: assets/img/posters/Webinar_ABioM_Rodriguez.pdf
+img: assets/img/posters/Webinar_ABioM_Rodriguez.jpg
 importance: 3
 category: research
 ---
@@ -13,7 +13,7 @@ The material for this presentation is a webinar to introduce a framework that in
     layout: page
     title: ABioM Webinar
     description: An Agile framework for VVUQ
-    img: /assets/img/posters/Webinar_ABioM_Rodriguez.pdf
+    img: /assets/img/posters/Webinar_ABioM_Rodriguez.jpg
     ---
 
 <div class="row">

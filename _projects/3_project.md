@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to VVUQ
 description: A presentation for the FRIday Engineering & Science Seminar Series
-img: assets/img/posters/FRIES_Seminar_image.pdf
+img: assets/img/posters/FRIES_Seminar_image.jpg
 importance: 3
 category: research
 ---
@@ -13,7 +13,7 @@ The material for this presentation is meant as an introduction to Verification, 
     layout: page
     title: Introduction to VVUQ
     description: A presentation for the FRIday Engineering & Science Seminar Series
-    img: /assets/img/posters/FRIES_Seminar_image.pdf
+    img: /assets/img/posters/FRIES_Seminar_image.jpg
     ---
 
 <div class="row">
