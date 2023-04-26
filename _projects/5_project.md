@@ -1,23 +1,25 @@
 ---
 layout: page
-title: SimSight
-description: A poster for data mining computational modeling of Medical Devices. 
-img: assets/img/posters/Science_Poster-SimSight.jpg
-importance: 3
+title: ABioM Webinar
+description: An Agile framework for VVUQ
+img: assets/img/posters/Webinar_ABioM_Rodriguez.jpg
+importance: 5
 category: research
 ---
 
-The material for this poster is part of an analysis to quantify the use of computational modeling for regualtory submissions. 
+The material for this presentation is a webinar to introduce a framework that integrates Verification, Validation, and Uncertainty Quantification into the computational modeling development process. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/posters/Science_Poster-SimSight.jpg" title="SimSight" class="img-fluid rounded z-depth-1" %}
+        <iframe src="https://rodriguezpaulina.com/Webinar_ABioM_Rodriguez.pdf" width="100%" height="450" allowfullscreen frameborder="0"></iframe>
+        
     </div>
 </div>
 <div class="caption">
-    Poster for the FDA OSEL Summer Interns. 
+    VVUQ Webinar.
 </div>
 
-If you would like to cite or download the poster see my <a href="https://figshare.com/articles/poster/SimSight_Data_Mining_to_Determine_the_Role_of_Computational_Modeling_and_Simulation_in_Regulatory_Decisions_for_Marketed_Medical_Devices/9741413">figshare account</a>. 
+If you would like to cite or download the presentation see my <a href="https://figshare.com/articles/presentation/ABioM_Webinar/8320553">figshare account</a>. 
+
 
 

@@ -1,22 +1,23 @@
 ---
 layout: page
-title: Introduction to VVUQ
-description: A presentation for the FRIday Engineering & Science Seminar Series
-img: assets/img/posters/FRIES_Seminar_image.jpg
-importance: 4
+title: SimSight
+description: A poster for data mining computational modeling of Medical Devices. 
+img: assets/img/posters/Science_Poster-SimSight.jpg
+importance: 3
 category: research
 ---
 
-The material for this presentation is meant as an introduction to Verification, Validation, and Uncertainty Quantification. In addition, this is includes material about the ASME V&V40 standard as a risk informed credibility framework. 
+The material for this poster is part of an analysis to quantify the use of computational modeling for regualtory submissions. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="https://widgets.figshare.com/articles/22575178/embed?show_title=1" width="100%" height="550" allowfullscreen frameborder="0"></iframe>
+        {% include figure.html path="assets/img/posters/Science_Poster-SimSight.jpg" title="SimSight" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    VVUQ presentation at the FRIday Engineering & Science Seminar Series.
+    Poster for the FDA OSEL Summer Interns. 
 </div>
 
-If you would like to cite or download the presentation see my <a href="https://figshare.com/articles/presentation/Computational_Models_for_Medical_Devices_Building_Trust/22575178">figshare account</a>. 
+If you would like to cite or download the poster see my <a href="https://figshare.com/articles/poster/SimSight_Data_Mining_to_Determine_the_Role_of_Computational_Modeling_and_Simulation_in_Regulatory_Decisions_for_Marketed_Medical_Devices/9741413">figshare account</a>. 
+
 
