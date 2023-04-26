@@ -11,7 +11,7 @@ The material for this poster is part of my graduate research and is in collabora
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/assets/img/posters/Poster_DOE_CSGF_Annual_Program_Review_Rodriguez_Final.jpg" title="Poster for the 2022 DOE CSGF Annual Program Review" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/posters/Poster_DOE_CSGF_Annual_Program_Review_Rodriguez_Final.jpg" title="Poster for the 2022 DOE CSGF Annual Program Review" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

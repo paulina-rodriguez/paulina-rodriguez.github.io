@@ -11,7 +11,7 @@ The material for this presentation is meant as an introduction to Verification, 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="https://widgets.figshare.com/articles/22575178/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+        <iframe src="https://widgets.figshare.com/articles/22575178/embed?show_title=1" width="100%" height="550" allowfullscreen frameborder="0"></iframe>
     </div>
 </div>
 <div class="caption">
