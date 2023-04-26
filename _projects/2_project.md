@@ -8,12 +8,6 @@ category: research
 ---
 
 The material for this poster is part of my graduate research and is in collaboration with the NSF & FDA SIR. 
-    ---
-    layout: page
-    title: Pipeflow Verificaiton
-    description: Poster for the 2022 DOE CSGF Annual Program Review
-    img: /assets/img/posters/Poster_DOE_CSGF_Annual_Program_Review_Rodriguez_Final.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

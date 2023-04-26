@@ -8,12 +8,6 @@ category: research
 ---
 
 The material for this poster is part of my graduate research. 
-    ---
-    layout: page
-    title: EDDS Airflow Model
-    description:  Poster for the GWU SEAS R&D Showcase 2023
-    img: /assets/img/posters/SEASPoster_Rodriguez_Paulina_2023.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

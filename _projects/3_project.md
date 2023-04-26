@@ -9,13 +9,6 @@ category: research
 
 The material for this presentation is meant as an introduction to Verification, Validation, and Uncertainty Quantification. In addition, this is includes material about the ASME V&V40 standard as a risk informed credibility framework. 
 
-    ---
-    layout: page
-    title: Introduction to VVUQ
-    description: A presentation for the FRIday Engineering & Science Seminar Series
-    img: /assets/img/posters/FRIES_Seminar_image.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <iframe src="https://widgets.figshare.com/articles/22575178/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>

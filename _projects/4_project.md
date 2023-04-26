@@ -9,16 +9,9 @@ category: research
 
 The material for this presentation is a webinar to introduce a framework that integrates Verification, Validation, and Uncertainty Quantification into the computational modeling development process. 
 
-    ---
-    layout: page
-    title: ABioM Webinar
-    description: An Agile framework for VVUQ
-    img: /assets/img/posters/Webinar_ABioM_Rodriguez.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <iframe src="https://widgets.figshare.com/articles/8320553/embed?show_title=1" width="568" height="351" allowfullscreen frameborder="0"></iframe>
+        <iframe src="https://widgets.figshare.com/articles/8320553?file=15592934" width="568" height="351" allowfullscreen frameborder="0"></iframe>
     </div>
 </div>
 <div class="caption">

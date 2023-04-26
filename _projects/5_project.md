@@ -9,12 +9,6 @@ category: research
 
 The material for this poster is part of an analysis to quantify the use of computational modeling for regualtory submissions. 
 
-    ---
-    layout: page
-    title: SimSight
-    description: A poster for data mining computational modeling of Medical Devices.
-    img: /assets/img/posters/Science_Poster-SimSight.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
