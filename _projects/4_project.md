@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction to VVUQ
-description: A presentation for the FRIday Engineering & Science Seminar Series
+description: Presentation for the GWU SEAS MAE FRIday Engineering & Science Seminar Series
 img: assets/img/posters/FRIES_Seminar_image.jpg
 importance: 4
 category: research

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SimSight
-description: A poster for data mining computational modeling of Medical Devices. 
+description: Poster for the FDA OSEL Summer Intern Symposium. 
 img: assets/img/posters/Science_Poster-SimSight.jpg
 importance: 3
 category: research

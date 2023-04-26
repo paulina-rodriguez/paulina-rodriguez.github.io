@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EDDS Airflow Model 
+title: Airflow Model - VVUQ 
 description: Poster for the GWU SEAS R&D Showcase 2023
 img: assets/img/posters/SEASPoster_Rodriguez_Paulina_2023.jpg
 importance: 1
