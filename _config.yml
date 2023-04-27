@@ -122,10 +122,10 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -222,6 +222,23 @@ defaults:
       path: "assets/**/*.*"
     values:
       sitemap: false
+  - scope:
+      path: "news/**/*.*"
+    values:
+      sitemap: false
+  - scope:
+      path: "blog/**/*.*"
+    values:
+      sitemap: false
+  - scope:
+      path: "_pages/**/*.*"
+    values:
+      sitemap: false
+  - scope:
+      path: "teaching/**/*.*"
+    values:
+      sitemap: false
+
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
