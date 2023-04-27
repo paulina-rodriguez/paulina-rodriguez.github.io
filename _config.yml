@@ -219,27 +219,7 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
-      path: "assets/**/*.*"
-    values:
-      sitemap: false
-  - scope:
-      path: "news/**/**/*.*"
-    values:
-      sitemap: false
-  - scope:
-      path: "news/**/*.*"
-    values:
-      sitemap: false
-  - scope:
-      path: "blog/**/*.*"
-    values:
-      sitemap: false
-  - scope:
-      path: "blog/**/**/**/*.*"
-    values:
-      sitemap: false
-  - scope:
-      path: "teaching/**/*.*"
+      path: "assets/**/*.* | news/ | news/**/ |news/**/**/| blog/| blog/**/| blog/**/**/ |blog/**/*.* | teaching/**/*.* _pages/dropdown/"
     values:
       sitemap: false
 
