@@ -223,35 +223,15 @@ defaults:
     values:
       sitemap: false
   - scope:
-      path: "/news/"
+      path: "news/announcement_1/"
     values:
       sitemap: false
   - scope:
-      path: "/news/**/"
+      path: "teaching/"
     values:
       sitemap: false
   - scope:
-      path: "/news/**/**/"
-    values:
-      sitemap: false
-  - scope:
-      path: "/blog/"
-    values:
-      sitemap: false
-  - scope:
-      path: "/blog/**/"
-    values:
-      sitemap: false
-  - scope:
-      path: "/blog/**/**/"
-    values:
-      sitemap: false
-  - scope:
-      path: "/teaching/"
-    values:
-      sitemap: false
-  - scope:
-      path: "/_pages/dropdown/"
+      path: "_pages/dropdown/"
     values:
       sitemap: false
 
