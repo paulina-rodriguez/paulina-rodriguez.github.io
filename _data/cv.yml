@@ -258,9 +258,10 @@
 - title: Technology
   type: list
   contents: 
-    - <u>Programming Languages:</u> Python, R, C++, C, Octave, PHP, JavaScript, Markdown, CSS, HTML
+    - <u>Programming Languages:</u> Python, R, C++, C, Octave, PHP, JavaScript, Markdown, CSS, HTML, RubyonRails
+    - <u>Numerical Solvers:</u> ANSYS CFX, OpenFOAM
+    - <u>Software:</u> Git, MATLAB, LaTeX, Jupyter Notebooks
     - <u>Operating Systems:</u> Windows, Linux, MacOS, UNIX
-    - <u>Database Management:</u> Postgres, MySQL
     - <u>Parallelization Methods:</u> MPI, OpenMP
-    - <u>Software:</u> Git, MATLAB, LaTeX, ANSYS, OpenFOAM, Jupyter, RubyonRails
     - <u>Text Editors:</u> Vim, Nano, Sublime, Emacs, VSCode  
+    - <u>Database Management:</u> Postgres, MySQL
