@@ -28,8 +28,8 @@
   contents:
     - title: Year-Round Intern
       institution: Sandia National Laboratories, Albuquerque, New Mexico
-      year: 2023
-      description: Implementing Three Validation Metrics on Two Different Datasets with Small Samples.
+      year: 2023 - Current
+      description: Implementing a Multi-Metric Validation Approach with a Focus on Small Samples.
     - title: Visiting Scientist, Computational Science Graduate Fellowship
       institution: Sandia National Laboratories, Albuquerque, New Mexico
       year: 2022
@@ -38,10 +38,14 @@
       institution: The George Washington University (GWU), Washington, DC
       year: 2021 - Current
       description: Developing a Computational Model of an Electronic Drug Delivery System Using Open Source Software and Integrating Reproducibility into Credibility Activities. Conduct Verification of Computational Model.
+    - title: Guest Researcher, ABioM Project
+      institution: US Food and Drugs Administration (US FDA), Silver Spring, MD
+      year: 2021 - 2024
+      description: Conducted Verification and Validation studies. 
     - title: Regulatory Science Researcher, ABioM Project
       institution: US Food and Drugs Administration (US FDA), Silver Spring, MD
       year: 2017 - 2021
-      description: Developed a Computational Model of a Medical Device, Electronic Drug Delivery System, Using ANSYS CFX and Integrated Validation, Risk Assessment, and Applicability to Demonstrate How to Build Credibility into the Model.
+      description: Developed a Computational Model of a Medical Device Using ANSYS CFX and Integrated Validation, Risk Assessment, and Applicability to Demonstrate How to Build Credibility into the Model.
     - title: Regulatory Science Researcher, SimSight Project
       institution: US Food and Drugs Administration (US FDA), Silver Spring, MD
       year: 2020

@@ -1,23 +1,21 @@
 ---
 layout: page
-title: SimSight
-description: Poster for the FDA OSEL Summer Intern Symposium. 
-img: assets/img/posters/Science_Poster-SimSight.jpg
-importance: 3
+title: Pipeflow Verificaiton
+description: Poster for the 2022 DOE CSGF Annual Program Review
+img: assets/img/posters/Poster_DOE_CSGF_Annual_Program_Review_Rodriguez_Final.jpg
+importance: 2
 category: research
 ---
 
-The material for this poster is part of an analysis to quantify the use of computational modeling for regualtory submissions. 
+The material for this poster is part of my graduate research and is in collaboration with the NSF & FDA SIR. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/posters/Science_Poster-SimSight.jpg" title="SimSight" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/posters/Poster_DOE_CSGF_Annual_Program_Review_Rodriguez_Final.jpg" title="Poster for the 2022 DOE CSGF Annual Program Review" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Poster for the FDA OSEL Summer Interns. 
+    Research presented at the 2022 DOE CSGF Annual Program Review.
 </div>
 
-If you would like to cite or download the poster see my <a href="https://figshare.com/articles/poster/SimSight_Data_Mining_to_Determine_the_Role_of_Computational_Modeling_and_Simulation_in_Regulatory_Decisions_for_Marketed_Medical_Devices/9741413">figshare account</a>. 
-
-
+If you would like to cite or download the poster see my <a href="https://figshare.com/articles/poster/Comparing_Open-Source_and_Commercial_Software_Solvers_for_Hagen-Poiseuille_Flow/22694437">figshare account</a>. 
