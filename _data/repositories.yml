@@ -1,11 +1,11 @@
 github_users:
-  - paulina-rodriguez
   - plinarodriguez
+  - paulina-rodriguez
 
 github_repos:
-  - paulina-rodriguez/numerical-mooc
-  - paulina-rodriguez/AeroPython
+  - /plinarodriguez/repro-edds
   - paulina-rodriguez/repro-template
   - plinarodriguez/ABioM
   - mitchell-fanger/SimSight
-  - plinarodriguez/jerry
+  - paulina-rodriguez/numerical-mooc
+  - paulina-rodriguez/AeroPython
