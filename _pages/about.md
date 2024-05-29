@@ -9,7 +9,7 @@ profile:
   image: paulina_photo.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Silver Spring, Maryland</p>
+    <p>Albuquerque, New Mexico</p>
     <p style="text-align:center;">Los Angeles, California <br> (Born & Raised)</p>
 
 news: false  # includes a list of news items
